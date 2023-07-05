@@ -11,7 +11,7 @@
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-    - [Useful resources](#useful-resources)
+    - [Acknowledgement](#Acknowledgement)
 
 
 ## Overview
@@ -22,7 +22,7 @@ this is a project to see how much do I understand HTML and CSS. Imma check the l
 I havent yet given it mobile view, I also want to store or save the data but idk how yet. this project will be upgraded over time. <July sixth>
 
 ### Screenshot
-
+![The Image]("C:\Users\NAJWA HANANA\Downloads\Coding Journey\Day-1\src\screenshots\Screen Shot 2023-07-06 at 00.17.46.png")
 
 ### Links
 
