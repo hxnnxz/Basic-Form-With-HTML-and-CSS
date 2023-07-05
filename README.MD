@@ -29,7 +29,7 @@ I havent yet given it mobile view, I also want to store or save the data but idk
 ### Links
 
 - [solution URL](https://github.com/hxnnxz/Basic-Form-With-HTML-and-CSS)
-- [Live Site UR](https://your-live-site-url.com)
+- [Live Site URL](https://hxnnxz.github.io/Basic-Form-With-HTML-and-CSS/index.html)
 
 
 ## My process
