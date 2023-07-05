@@ -22,9 +22,9 @@ this is a project to see how much do I understand HTML and CSS. Imma check the l
 I havent yet given it mobile view, I also want to store or save the data but idk how yet. this project will be upgraded over time. <July sixth>
 
 ### Screenshot
-![Contact page](<src/screenshots/Screen Shot 2023-07-06 at 00.17.01.png>)
+![Contact page](<src/screenshots/Screen Shot 2023-07-06 at 00.17.46.png>)
 ![Additional Design page](<src/screenshots/Screen Shot 2023-07-06 at 00.17.31.png>)
-![Finish page](<src/screenshots/Screen Shot 2023-07-06 at 00.17.46.png>)
+![Finish page](<src/screenshots/Screen Shot 2023-07-06 at 01.51.56>)
 
 ### Links
 
