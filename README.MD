@@ -24,7 +24,7 @@ I havent yet given it mobile view, I also want to store or save the data but idk
 ### Screenshot
 ![Contact page](<src/screenshots/Screen Shot 2023-07-06 at 00.17.46.png>)
 ![Additional Design page](<src/screenshots/Screen Shot 2023-07-06 at 00.17.31.png>)
-![Finish page](<src/screenshots/Screen Shot 2023-07-06 at 01.51.56>)
+![Finish page](<src/screenshots/Screen Shot 2023-07-06 at 01.51.56.png>)
 
 ### Links
 
