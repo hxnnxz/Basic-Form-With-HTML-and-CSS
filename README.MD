@@ -18,20 +18,16 @@
 ---
 
 ### About the Project
-this is a project to see how much do I understand HTML and CSS. Imma check on the list and see what course should I take next time to make any improvement.\
-I havent yet give it mobile view, I also want to store or save the data but idk how yet. this project will be upgraded by time. <July sixth>
+this is a project to see how much do I understand HTML and CSS. Imma check the list and see what course should I take next time to make any improvements.\
+I havent yet given it mobile view, I also want to store or save the data but idk how yet. this project will be upgraded over time. <July sixth>
 
 ### Screenshot
-
-![Contact Page](<Screen Shot 2023-07-06 at 00.17.46.png>)
-![Additional Page](<Screen Shot 2023-07-06 at 00.17.31.png>)
-![Finish Page](<Screen Shot 2023-07-06 at 00.17.01.png>)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [solution URL](https://github.com/hxnnxz/Basic-Form-With-HTML-and-CSS)
+- [Live Site UR](https://your-live-site-url.com)
 
 
 ## My process
@@ -44,7 +40,6 @@ I havent yet give it mobile view, I also want to store or save the data but idk 
 - Flexbox
 - CSS Grid
 - Web-first workflow
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### What I learned
 
@@ -71,15 +66,15 @@ form .center .inputs {
 ```
 - knowing the difference between all css pseudo-selectors
 - how to write .md file haha
-- it's good to have style guide
-- there are lots of helpful source on the internet. try to understand the source code doesnt mean Im cheating :)
+- it's good to have a style guide
+- there are lots of useful sources on the internet. try to understand the source code doesnt mean Im cheating :)
 
 
 ### Useful resources
 
 - [YT - Responsive html form tutorial](https://youtu.be/okbByPWS1Xc) - This helped me understand the use of flex-wrap and width: calc();
-- [pure css custom checkbox style](https://moderncss.dev/pure-css-custom-checkbox-style/) - mostly helped me to understand the css pseudo-selectors like :before and :focus. this helped understand how to custom the checkbox input with only pure css (using pseudo-selector ahaha).
-- [YT - CSS Custom Checkbox List Design | Html CSS](https://youtu.be/jtf6NESiXW8) - helped me to create the checkboxes :))). I was frustrated on how to create the checkbox and style it acording to my initial design. the code (from addInfo.html) :
+- [pure css custom checkbox style](https://moderncss.dev/pure-css-custom-checkbox-style/) - mostly helped me to understand the css pseudo-selectors like :before and :focus. this helped me know how to custom the checkbox input with only pure css (using pseudo-selector ahaha).
+- [YT - CSS Custom Checkbox List Design | Html CSS](https://youtu.be/jtf6NESiXW8) - helped me to create the checkboxes :))). I was frustrated with creating the checkboxes and styling it according to my initial design. the code (from addInfo.html) :
 ```html
 <div class="checks">
     <label>
@@ -92,7 +87,7 @@ form .center .inputs {
 ## Author
 ---
 
-- Github - [hxxnxz](https://github.com/hxnnxz)
+- GitHub - [hxxnxz](https://github.com/hxnnxz)
 - Frontend Mentor - [@meantoes](https://www.frontendmentor.io/profile/meantoes)
 
 ### Acknowledgement
