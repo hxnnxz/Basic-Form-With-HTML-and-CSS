@@ -1,0 +1,205 @@
+/* mostly contains styling for the contact page and universal style */
+
+/* universal style-- */
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* centering the main container */
+
+    font-size: 16px;
+    font-family: 'Ysabeau Infant', sans-serif;
+    color: white;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 2fr; /* two-cols grid for left and right section */
+    column-gap: 2em;
+
+    background-color: #8D7B68;
+    box-shadow: 0px 15px 20px 5px #8d7b6877;
+
+    max-width: 1000px;
+    width: 100%;
+    
+    border-radius: 15px;
+}
+
+/* styling .menu-section */
+.menu-section {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2em;
+    background-color: #8D7B68;
+
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 600;
+    color: white;
+}
+
+a, ul li {
+    text-decoration: none;
+}
+
+a {
+    color: white;
+    font-weight: 600;
+    font-family: 'Ysabeau Infant', sans-serif;
+    cursor: pointer;
+}
+
+/* LI STYLE */
+li {
+    margin-bottom: 2em;
+    padding: .5em 0;
+    padding-left: .5em;
+
+    border-radius: 5px;    
+}
+
+.logo {
+    display: flex;
+}
+
+/* styling the .form-section */
+.form-section {
+    display: flex;
+    flex-direction: column;
+    background-color: #A4907C;
+    justify-content: space-between;
+
+    border-radius: 15px;
+}
+
+.form-section h1 {
+    text-align: center;
+}
+
+/* for title on right section */
+.top {
+    margin-bottom: 1em;
+}
+
+.menu-section, .form-section {
+    padding: 2em 3em;
+}
+
+/* WRAPPING THE INPUT ON CONTACT PAGE .center*/
+form .center {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+/* GIVING THE INPUT WIDTH */
+form .center .inputs {
+    margin: 20px 0 12px 0;
+    width: calc(100% / 2 - 20px);
+}
+
+/* STYLING THE INPUT FORM */
+.center .inputs input {
+    height: 30px;
+    width: 100%;
+    padding-left: 10px;
+
+    border-radius: 5px;
+    border: none; outline: none;
+
+    font-size: 16px;    
+    font-weight: bold;
+    font-family: 'Ysabeau Infant', sans-serif;
+    color: #8D7B68;
+}
+
+/* STYLING .inputs' label ON CONTACT PAGE */
+.inputs label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+/* REMOVING THE FILE INPUT'S STYLE */
+input[type="file"] {
+    display: none;
+}
+
+/* FILE INPUT'S STYLE */
+.upload-photo label {
+    display: block;
+    margin: 1.5em 0;
+    padding: .5em;
+    background-color: white;
+
+    font-weight: 600;
+    color: #A4907C;
+    
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.upload-photo {
+    position: relative;
+}
+
+/* FOR FILE UPLOAD ICON */
+.upload-photo-icon {
+    width: 30px;
+    padding: .5em;
+    border-radius: 5px;
+    background-color: white;
+    position: absolute;
+    border: none;
+
+    top: 15px;
+    right: -10px;
+}
+
+/* STYLING THE BOTTOM ROW */
+.bottom {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3em;
+}
+
+/* UNIVERSAL STYLE FOR BUTTON */
+button {
+    width: 6em;
+    padding: .5em 0 .7em 0;
+    background-color: #8D7B68;
+
+    border: none;
+    border-radius: 5px;
+
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-weight: 600;
+    color: white;
+
+    box-shadow: 0px 5px 3px 0px rgba(0,0,0,0.25);
+    transition: all 0.15s linear;
+}
+
+button:hover {
+    outline: 1px solid white;
+    box-shadow: none;
+}
+
+button:focus {
+    outline: none;
+    box-shadow: 0px 5px 3px 0px rgba(0,0,0,0.25);
+}
+
+.reset {
+    cursor: pointer;
+}
+
+/* .leftB FLEX DISPLAY */
+.leftB {
+    display: flex;
+    column-gap: 20px;
+}
